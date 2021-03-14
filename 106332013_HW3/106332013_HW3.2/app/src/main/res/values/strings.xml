@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="button_label_count">Random</string>
+    <string name="button_label_toast">SAY HELLO</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_button_toast">Hello Toast!</string>
+    <string name="textView4">HELLO!</string>
+    <string name="nextpage">SAY HELLO</string>
+</resources>

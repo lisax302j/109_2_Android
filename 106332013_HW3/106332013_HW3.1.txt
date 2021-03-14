@@ -1,0 +1,30 @@
+HW3
+160332013陳?萱 材資四乙
+1. One view or one view group
+* 2.android:orientation="horizontal"
+* 3.android:layout_width="match_parent"
+
+Question 1
+How many views can you use within a?ScrollView? Choose one:
+* One view only
+* One view or one view group
+* As many as you need
+* 
+* Ans：One view or one view group
+* 
+Question 2
+Which XML attribute do you use in a?LinearLayout?to show views side by side? Choose one:
+* android:orientation="horizontal"
+* android:orientation="vertical"
+* android:layout_width="wrap_content"
+* 
+* Ans：android:orientation="horizontal"
+
+Question 3
+Which XML attribute do you use to define the width of the?LinearLayout?inside the scrolling view? Choose one:
+* android:layout_width="wrap_content"
+* android:layout_width="match_parent"
+* android:layout_width="200dp"
+
+* Ans：android:layout_width="match_parent"
+
