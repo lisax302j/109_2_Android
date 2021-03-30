@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d884b70-7bdc-4025-abcd-b24a5c59568f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../國際研討會/Thumbs.db" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/IdeaWin32.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/IdeaWin32.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/IdeaWin64.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/IdeaWin64.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/WinProcessListHelper.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/WinProcessListHelper.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/breakgen.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/breakgen.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/breakgen64.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/breakgen64.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/clang/win/clang-tidy.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/clang/win/clang-tidy.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/clang/win/clangd.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/clang/win/clangd.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/clang/win/libgcc_s_seh-1.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/clang/win/libgcc_s_seh-1.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/clang/win/libssp-0.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/clang/win/libssp-0.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/clang/win/libstdc++-6.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/clang/win/libstdc++-6.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/clang/win/libwinpthread-1.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/clang/win/libwinpthread-1.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/elevator.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/elevator.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/fsnotifier.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/fsnotifier.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/fsnotifier64.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/fsnotifier64.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/jumplistbridge.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/jumplistbridge.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/jumplistbridge64.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/jumplistbridge64.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/launcher.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/launcher.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/LLDBFrontend.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/LLDBFrontend.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/concrt140.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/concrt140.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/liblldb.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/liblldb.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/llvm-symbolizer.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/llvm-symbolizer.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/minidump_stackwalk.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/minidump_stackwalk.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/msvcp140.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/msvcp140.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/python27.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/python27.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/vcruntime140.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/vcruntime140.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/lldb/bin/x86_64-linux-android-c++filt.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/lldb/bin/x86_64-linux-android-c++filt.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/profiler.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/profiler.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/restarter.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/restarter.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/runnerw.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/runnerw.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/studio.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/studio.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/studio64.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/studio64.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/build.txt" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/build.txt" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/appletviewer.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/appletviewer.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/clhsdb.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/clhsdb.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/extcheck.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/extcheck.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/hsdb.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/hsdb.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/idlj.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/idlj.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jabswitch.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jabswitch.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jar.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jar.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jarsigner.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jarsigner.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/java-rmi.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/java-rmi.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/java.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/java.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/javac.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/javac.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/javadoc.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/javadoc.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/javah.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/javah.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/javap.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/javap.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/javaw.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/javaw.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jcmd.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jcmd.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jconsole.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jconsole.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jdb.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jdb.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jdeps.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jdeps.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jhat.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jhat.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jinfo.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jinfo.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jjs.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jjs.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jli.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jli.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jmap.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jmap.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jps.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jps.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jrunscript.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jrunscript.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jsadebugd.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jsadebugd.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jstack.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jstack.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jstat.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jstat.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/jstatd.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/jstatd.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/keytool.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/keytool.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/kinit.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/kinit.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/klist.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/klist.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/ktab.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/ktab.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/msvcr100.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/msvcr100.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/native2ascii.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/native2ascii.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/orbd.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/orbd.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/pack200.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/pack200.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/policytool.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/policytool.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/rmic.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/rmic.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/rmid.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/rmid.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/rmiregistry.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/rmiregistry.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/schemagen.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/schemagen.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/serialver.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/serialver.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/servertool.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/servertool.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/tnameserv.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/tnameserv.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/unpack200.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/unpack200.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/wsgen.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/wsgen.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/wsimport.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/wsimport.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/bin/xjc.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/bin/xjc.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/JAWTAccessBridge-64.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/JAWTAccessBridge-64.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/JavaAccessBridge-64.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/JavaAccessBridge-64.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/WindowsAccessBridge-64.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/WindowsAccessBridge-64.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/attach.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/attach.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/awt.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/awt.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/dt_shmem.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/dt_shmem.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/dt_socket.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/dt_socket.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/fontmanager.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/fontmanager.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/freetype.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/freetype.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/hprof.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/hprof.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/instrument.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/instrument.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/j2pcsc.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/j2pcsc.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/j2pkcs11.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/j2pkcs11.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jaas_nt.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jaas_nt.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jabswitch.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jabswitch.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/java-rmi.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/java-rmi.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/java.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/java.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/java.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/java.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/java_crw_demo.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/java_crw_demo.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/javaw.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/javaw.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jawt.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jawt.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jdwp.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jdwp.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jjs.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jjs.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jli.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jli.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jpeg.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jpeg.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jsdt.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jsdt.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jsound.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jsound.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/jsoundds.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/jsoundds.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/keytool.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/keytool.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/kinit.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/kinit.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/klist.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/klist.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/ktab.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/ktab.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/lcms.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/lcms.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/management.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/management.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/mlib_image.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/mlib_image.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/msvcr100.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/msvcr100.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/net.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/net.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/nio.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/nio.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/npt.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/npt.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/orbd.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/orbd.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/pack200.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/pack200.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/policytool.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/policytool.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/rmid.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/rmid.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/rmiregistry.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/rmiregistry.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/sawindbg.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/sawindbg.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/server/jvm.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/server/jvm.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/servertool.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/servertool.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/splashscreen.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/splashscreen.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/sunec.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/sunec.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/sunmscapi.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/sunmscapi.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/tnameserv.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/tnameserv.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/unpack.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/unpack.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/unpack200.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/unpack200.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/verify.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/verify.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/w2k_lsa_auth.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/w2k_lsa_auth.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jre/jre/bin/zip.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jre/jre/bin/zip.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/android-base-common.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/android-base-common.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/bootstrap.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/bootstrap.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/built-in-server.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/built-in-server.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/cds/classesLogAgent.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/cds/classesLogAgent.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/configuration-store-impl.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/configuration-store-impl.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/coverage-common.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/coverage-common.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/credential-store.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/credential-store.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/dom-impl.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/dom-impl.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/dom-openapi.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/dom-openapi.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/emulator_java_proto.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/emulator_java_proto.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/extensions.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/extensions.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/external-system-rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/external-system-rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/forms_rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/forms_rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/google-analytics-library.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/google-analytics-library.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/icons.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/icons.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/idea.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/idea.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/idea_rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/idea_rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/intellij-dvcs.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/intellij-dvcs.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/javac2.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/javac2.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/jps-model.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/jps-model.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/json.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/json.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/jsp-base-openapi.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/jsp-base-openapi.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/layout_inspector_java_proto.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/layout_inspector_java_proto.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/openapi.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/openapi.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/perfetto-protos.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/perfetto-protos.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-api.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-api.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-concurrency.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-concurrency.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-core-ui.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-core-ui.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-diagnostic.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-diagnostic.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-ide-util-io.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-ide-util-io.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-impl.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-impl.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-objectSerializer-annotations.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-objectSerializer-annotations.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-objectSerializer.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-objectSerializer.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-serviceContainer.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-serviceContainer.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-statistics-devkit.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-statistics-devkit.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-statistics-uploader.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-statistics-uploader.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-statistics.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-statistics.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-util-ex.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-util-ex.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/platform-util-ui.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/platform-util-ui.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/proto.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/proto.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86/winpty-agent.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86/winpty-agent.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86/winpty.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86/winpty.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86_64/cyglaunch.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86_64/cyglaunch.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86_64/winpty-agent.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86_64/winpty-agent.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86_64/winpty.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/x86_64/winpty.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/xp/winpty-agent.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/xp/winpty-agent.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/xp/winpty.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/pty4j-native/win/xp/winpty.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/resources.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/resources.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/spellchecker.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/spellchecker.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/sqlite_inspector_proto.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/sqlite_inspector_proto.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/studio-grpc.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/studio-grpc.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/studio-proto.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/studio-proto.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/testFramework-java.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/testFramework-java.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/testFramework.core.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/testFramework.core.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/testFramework.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/testFramework.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/tests_bootstrap.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/tests_bootstrap.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/transport_java_proto.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/transport_java_proto.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/uast-tests.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/uast-tests.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/lib/util.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/lib/util.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/Groovy.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/Groovy.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/groovy-jps-plugin.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/groovy-jps-plugin.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/groovy-rt-constants.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/groovy-rt-constants.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/groovy_rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/Groovy/lib/groovy_rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/IntelliLang/lib/IntelliLang.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/IntelliLang/lib/IntelliLang.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/IntelliLang/lib/intellilang-jps-plugin.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/IntelliLang/lib/intellilang-jps-plugin.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-apk/lib/android-apk.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-apk/lib/android-apk.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-compose-ide-plugin/lib/android-compose-ide-plugin.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-compose-ide-plugin/lib/android-compose-ide-plugin.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-compose-ide-plugin/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-compose-ide-plugin/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib-native/lib/android-layoutlib-native.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib-native/lib/android-layoutlib-native.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib-native/lib/layoutlib-api.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib-native/lib/layoutlib-api.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib/lib/android-layoutlib.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib/lib/android-layoutlib.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib/lib/layoutlib-api.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-layoutlib/lib/layoutlib-api.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-ndk/lib/android-ndk.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-ndk/lib/android-ndk.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android-ndk/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android-ndk/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/adt-ui.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/adt-ui.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-common.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-common.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-extensions-ide.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-extensions-ide.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-kotlin.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-kotlin.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-profilers.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-profilers.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/android-rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/android.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/android.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/artwork.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/artwork.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/build-common.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/build-common.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/data-binding.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/data-binding.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/deploy_java_proto.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/deploy_java_proto.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/game-tools-protos.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/game-tools-protos.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/game-tools.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/game-tools.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/jps/android-jps-plugin.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/jps/android-jps-plugin.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib-loader.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib-loader.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/libandroid_runtime.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/libandroid_runtime.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/libicuuc-host.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/libicuuc-host.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/libicuuc_stubdata.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/libicuuc_stubdata.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/liblog.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/win/lib64/liblog.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/lint-ide.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/lint-ide.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/manifest-merger.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/manifest-merger.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/pixelprobe.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/pixelprobe.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/repository.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/repository.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/sdk-common.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/sdk-common.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/sdk-tools.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/sdk-tools.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/sdklib.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/sdklib.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/trace_agent.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/trace_agent.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/traceprocessor_protos.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/traceprocessor_protos.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/webp_jni.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/webp_jni.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/webp_jni64.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/webp_jni64.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/lib/wizard-template.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/lib/wizard-template.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/profilers-transform.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/profilers-transform.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows-x86_64/libsimpleperf_report.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows-x86_64/libsimpleperf_report.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows-x86_64/libwinpthread-1.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows-x86_64/libwinpthread-1.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows-x86_64/simpleperf.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows-x86_64/simpleperf.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows/libsimpleperf_report.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows/libsimpleperf_report.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows/libwinpthread-1.dll" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows/libwinpthread-1.dll" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows/simpleperf.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/simpleperf/windows/simpleperf.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/android/resources/trace_processor_daemon/trace_processor_daemon.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/android/resources/trace_processor_daemon/trace_processor_daemon.exe" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/configurationScript/lib/configurationScript.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/configurationScript/lib/configurationScript.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/copyright/lib/copyright.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/copyright/lib/copyright.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/copyright/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/copyright/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/coverage/lib/coverage.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/coverage/lib/coverage.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/coverage/lib/coverage_rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/coverage/lib/coverage_rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/coverage/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/coverage/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/editorconfig/lib/editorconfig.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/editorconfig/lib/editorconfig.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/editorconfig/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/editorconfig/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/filePrediction/lib/filePrediction.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/filePrediction/lib/filePrediction.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/firebase-testing/lib/firebase-testing.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/firebase-testing/lib/firebase-testing.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/firebase/lib/firebase.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/firebase/lib/firebase.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/firebase/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/firebase/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/git4idea-rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/git4idea-rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/git4idea.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/git4idea.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/remote-servers-git.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/remote-servers-git.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/git4idea/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/github/lib/github.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/github/lib/github.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/github/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/github/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-appindexing/lib/google-appindexing.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-appindexing/lib/google-appindexing.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-appindexing/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-appindexing/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-as/lib/google-cloud-tools-as.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-as/lib/google-cloud-tools-as.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-as/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-as/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-core-as/lib/google-cloud-tools-core-as.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-core-as/lib/google-cloud-tools-core-as.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-core-as/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-cloud-tools-core-as/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-login-as/lib/google-login-as.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-login-as/lib/google-login-as.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-login-as/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-login-as/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-samples/lib/google-samples.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-samples/lib/google-samples.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/google-samples/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/google-samples/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle-java/lib/gradle-java.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle-java/lib/gradle-java.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle-java/lib/gradle-jps-plugin.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle-java/lib/gradle-jps-plugin.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle-java/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle-java/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-common.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-common.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-tooling-extension-api.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-tooling-extension-api.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-tooling-extension-impl.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-tooling-extension-impl.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-toolingLoaderRt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-toolingLoaderRt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/hg4idea/lib/hg4idea.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/hg4idea/lib/hg4idea.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/hg4idea/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/hg4idea/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java-decompiler/lib/java-decompiler.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java-decompiler/lib/java-decompiler.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java-i18n/lib/java-i18n.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java-i18n/lib/java-i18n.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java-i18n/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java-i18n/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java-ide-customization/lib/java-ide-customization.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java-ide-customization/lib/java-ide-customization.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/aether-dependency-resolver.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/aether-dependency-resolver.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/java-api.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/java-api.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/java-impl.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/java-impl.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/java_resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/java_resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/javac2.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/javac2.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/jps-builders-6.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/jps-builders-6.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/jps-builders.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/jps-builders.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/jps-launcher.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/jps-launcher.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/jshell-protocol.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/jshell-protocol.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/resources.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/resources.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/rt/debugger-agent-storage.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/rt/debugger-agent-storage.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/java/lib/rt/debugger-agent.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/java/lib/rt/debugger-agent.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/junit/lib/idea-junit.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/junit/lib/idea-junit.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit5-rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit5-rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/junit/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/junit/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/platform-images/lib/platform-images.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/platform-images/lib/platform-images.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/platform-images/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/platform-images/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/properties-resource-bundle-editor/lib/properties-resource-bundle-editor.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/properties-resource-bundle-editor/lib/properties-resource-bundle-editor.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/properties-resource-bundle-editor/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/properties-resource-bundle-editor/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/properties/lib/properties.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/properties/lib/properties.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/properties/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/properties/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/repository-search/lib/repository-search.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/repository-search/lib/repository-search.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/settings-repository/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/settings-repository/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/settings-repository/lib/settings-repository.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/settings-repository/lib/settings-repository.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/sh/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/sh/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/sh/lib/sh.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/sh/lib/sh.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/smali/lib/smali.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/smali/lib/smali.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/stream-debugger/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/stream-debugger/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/stream-debugger/lib/stream-debugger.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/stream-debugger/lib/stream-debugger.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/svn4idea/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/svn4idea/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/svn4idea/lib/svn4idea.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/svn4idea/lib/svn4idea.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/jira.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/jira.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-api.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-api.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-compatibility.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-compatibility.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-core.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-core.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-java.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/tasks/lib/tasks-java.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/terminal/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/terminal/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/terminal/lib/terminal.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/terminal/lib/terminal.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/test-recorder/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/test-recorder/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/test-recorder/lib/test-recorder.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/test-recorder/lib/test-recorder.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/testng/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/testng/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/testng/lib/testng-plugin.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/testng/lib/testng-plugin.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/testng/lib/testng-rt.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/testng/lib/testng-rt.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/textmate.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/textmate/lib/textmate.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/url-assistant/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/url-assistant/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/url-assistant/lib/url-assistant.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/url-assistant/lib/url-assistant.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/vcs-changeReminder/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/vcs-changeReminder/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/vcs-changeReminder/lib/vcs-changeReminder.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/vcs-changeReminder/lib/vcs-changeReminder.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/yaml/lib/resources_en.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/yaml/lib/resources_en.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/plugins/yaml/lib/yaml.jar" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/plugins/yaml/lib/yaml.jar" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/uninstall.exe" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/uninstall.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GitHubDesktopSetup.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qESYba8yH1F85bPmjQPKj2tVyu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DroidCafe.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d884b70-7bdc-4025-abcd-b24a5c59568f" name="Default Changelist" comment="" />
+      <created>1616643304886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616643304886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
