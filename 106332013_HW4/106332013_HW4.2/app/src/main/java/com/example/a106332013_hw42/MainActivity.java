@@ -1,9 +1,17 @@
 package com.example.a106332013_hw42;
 
+import android.Manifest;
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.icu.text.SimpleDateFormat;
 import android.net.Uri;
+import android.os.Build;
+import android.os.Environment;
+import android.provider.MediaStore;
+import android.support.annotation.RequiresApi;
 import android.support.v4.app.ShareCompat;
+import android.support.v4.content.FileProvider;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -12,16 +20,24 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.Date;
+
 public class MainActivity extends AppCompatActivity {
     private EditText mWebsiteEditText;
     private EditText mLocationEditText;
     private EditText mShareTextEditText;
-    private EditText mTakePictureEditText;
-//12313213
+
+    public static final int CAMERA_PERMISSION = 100;//檢測相機權限用
+    public static final int REQUEST_HIGH_IMAGE = 101;//檢測高畫質相機回傳
+
+    @RequiresApi(api = Build.VERSION_CODES.M)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate (savedInstanceState);
         setContentView (R.layout.activity_main);
+
         Intent intent = getIntent ( );
         Uri uri = intent.getData ( );
         if (uri != null) {
@@ -30,12 +46,19 @@ public class MainActivity extends AppCompatActivity {
             TextView textView = findViewById (R.id.text);
             textView.setText (uri_string);
         }
-    }
+
+        mWebsiteEditText = findViewById(R.id.website_edittext);
+        mLocationEditText=findViewById ( R.id.location_edittext );
+        mShareTextEditText = findViewById(R.id.share_edittext);
+
+        Button btnPicture = (Button) findViewById (R.id.button_picture);
+
+        }
+
 
     @SuppressLint("QueryPermissionsNeeded")
 
     public void openWebsite(View view) {
-        mWebsiteEditText = findViewById (R.id.website_edittext);
         String url = mWebsiteEditText.getText ( ).toString ( );
         Uri webpage = Uri.parse (url);
         Intent intent = new Intent (Intent.ACTION_VIEW, webpage);
@@ -48,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openLocation(View view) {
-        mLocationEditText = findViewById (R.id.location_edittext);
         String loc = mLocationEditText.getText ( ).toString ( );
         Uri addressUri = Uri.parse ("geo:0,0?q=" + loc);
         Intent intent = new Intent (Intent.ACTION_VIEW, addressUri);
@@ -60,7 +82,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void shareText(View view) {
-        mShareTextEditText = findViewById (R.id.share_edittext);
         String txt = mShareTextEditText.getText ( ).toString ( );
         String mimeType = "text/plain";
         ShareCompat.IntentBuilder
@@ -69,22 +90,12 @@ public class MainActivity extends AppCompatActivity {
                 .setChooserTitle ("Share this text with: ")
                 .setText (txt)
                 .startChooser ( );
-
     }
 
-    Intent intent = new Intent ( );
-//    intent.setAction("android.media.action.STILL_IMAGE_CAMERA");
-//    startActivity(intent);
-
-    Button btn = (Button) findViewById (R.id.button_picture);
-//    btn.setOnClickListener(new void OnClickListener(){
-
-
-//    public void OnClick(View view)
-//      Intent intent = new Intent ( );
-//      intent.setAction ("android.media.action.STILL_IMAGE_CAMERA");
-//      startActivity (intent);
-//    };
-
+    public void TakePicture(View view) {
+        Intent it = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        startActivityForResult(it,100);
+    }
 }
+
 

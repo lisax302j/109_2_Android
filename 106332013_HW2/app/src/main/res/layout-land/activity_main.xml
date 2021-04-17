@@ -58,12 +58,17 @@
         android:id="@+id/button"
         android:layout_width="220dp"
         android:layout_height="90dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginEnd="89dp"
+        android:layout_marginRight="89dp"
         android:layout_marginBottom="8dp"
         android:background="@color/AAA"
         android:text="@string/button_label_zero"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="16dp" />
+        app:layout_constraintEnd_toStartOf="@+id/show_count"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/show_count"

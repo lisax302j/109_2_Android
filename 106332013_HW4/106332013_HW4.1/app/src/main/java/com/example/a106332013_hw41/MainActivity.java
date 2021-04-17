@@ -4,84 +4,70 @@ package com.example.a106332013_hw41;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.Button;
+import android.view.ViewStructure;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import static android.view.View.OnClickListener;
-
 public class MainActivity extends AppCompatActivity {
 
-    private static final String LOG_TAG = ;
-    private TextView txtShow;
-    private Button btnDo;
-    private int count = 0;
+
+    private static final String LOG_TAG =MainActivity.class.getSimpleName () ;
+    private int mCount = 0;
+    private TextView mShowCount;
+
+    @Override
+    public void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        // If the heading is visible, message needs to be saved.
+        // Otherwise we're still using default layout.
+        View mReplyHeadTextView = null;
+        if (mReplyHeadTextView.getVisibility() == View.VISIBLE) {
+            outState.putBoolean("reply_visible", true);
+        }
+
+        Boolean savedInstanceState = null;
+        if (savedInstanceState != null) {
+            boolean isVisible =
+                    savedInstanceState.getBoolean("reply_visible");
+        }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
-
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        super.onCreate ( savedInstanceState );
+        setContentView ( R.layout.activity_main );
+        mShowCount = (TextView) findViewById ( R.id.show_count );
+        // Log the start of the onCreate() method.
 
         Log.d(LOG_TAG, "-------");
-        final int onCreate = Log.d (LOG_TAG, "onCreate");
+        Log.d(LOG_TAG, "onCreate");
 
-        @Override
-        public void onStart(){
-            super.onStart();
-            Log.d(LOG_TAG, "onStart");
+
+        View mMessageEditText = findViewById ( R.id.editText_main );
+
+
+        // Restore the saved state.
+        // See onSaveInstanceState() for what gets saved.
+        if (savedInstanceState != null) {
+            boolean isVisible =
+                    savedInstanceState.getBoolean("reply_visible");
+            // Show both the header and the message views. If isVisible is
+            // false or missing from the bundle, use the default layout.
+            if (isVisible) {
+                View mReplyHeadTextView = null;
+                mReplyHeadTextView.setVisibility(View.VISIBLE);
+                ViewStructure mReplyTextView;
+            }
         }
-        
-        txtShow = (TextView) findViewById(R.id.textView2);
-        btnDo = (Button) findViewById(R.id.btnDo);
-
-        btnDo.findViewById(R.id.btnDo);
-
-        btnDo.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                count ++;
-                txtShow.setText(String.valueOf(count));
-
-        //btnDo.setOnClickListener(btnDotListener);
-        //Button btnDo =(Button)findViewById(R.id.btnDo)
-        //btnDo.setOnClickListener(btnDotListener());
-        //Button OnClickListener btnCountListener = new Button.OnClickListener() {
-        //    @Override
-        //    public void onClick(View v) {
-
-        //    }
-
-            //Button.OnClickListener getCount;
-                    //getCount = new Button.OnClickListener(){
-
-                @Override
-                public void countup;
-                ( ) {
-                    countup ( );
-                }
-
-            @Override
-                    public void countup(View v) {
-                        count++;
-                        if (txtShow != null)
-                            txtShow.setText(Integer.toString(count));
-                        //txtShow.setText(count);
-                    }
-                };
     }
 
-    private OnClickListener btnDotListener() {
-        return btnDotListener();
+
+    public void countUp ( View view){
+            mCount++;
+            if (mShowCount != null)
+                mShowCount.setText ( Integer.toString ( mCount ) );
+        }
     }
 
-    protected  void onRestart(){
-        super.onRestart();
-        Toast.makeText(getApplicationContext(),
-                "onRestart", Toast.LENGTH_SHORT).show();
-        }
-};
+
