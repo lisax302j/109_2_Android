@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2aac32ca-f12a-49e2-976d-124ec2cc3385" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/java/com/example/a106332013_hw7a/Dount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/java/com/example/a106332013_hw7a/Froyo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/java/com/example/a106332013_hw7a/Icecream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/res/drawable/donut_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/res/drawable/froyo_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/res/drawable/icecream_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/res/layout/activity_dount.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/res/layout/activity_dount_circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/res/layout/activity_froyo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../106332013_HW7a/app/src/main/res/layout/activity_icecream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__android_arch_core_common_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_design_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_annotations_26_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_core_ui_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_core_utils_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_fragment_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_android_support_transition_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/modules/app/DroidCafeOptionsUp.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/generated/source/buildConfig/debug/com/example/android/droidcafeinput/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rAU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rIN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_status_info.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/java/com/example/android/droidcafeinput/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/java/com/example/android/droidcafeinput/OrderActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-hdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-hdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-hdpi/ic_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-hdpi/ic_status_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-mdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-mdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-mdpi/ic_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-mdpi/ic_status_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xhdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xhdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xhdpi/ic_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xhdpi/ic_status_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xxhdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xxhdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xxhdpi/ic_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable-xxhdpi/ic_status_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable/donut_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable/froyo_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/drawable/icecream_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/layout/activity_order.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/build/android-profile/profile-2021-04-17-13-22-34-557.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/build/android-profile/profile-2021-04-17-13-22-34-557.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCafeOptionsUp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.gradle/4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.gradle/buildOutputCleanup/built.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.gradle/buildOutputCleanup/cache.properties.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__android_arch_core_common_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_design_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_annotations_26_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_core_ui_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_core_utils_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_fragment_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_android_support_transition_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/modules/TabExperiment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/modules/app/TabExperiment.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/java/com/example/android/tabexperiment/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/java/com/example/android/tabexperiment/PagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/java/com/example/android/tabexperiment/TabFragment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/java/com/example/android/tabexperiment/TabFragment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/java/com/example/android/tabexperiment/TabFragment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/layout/tab_fragment1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/layout/tab_fragment2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/layout/tab_fragment3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/build/android-profile/profile-2021-04-17-13-40-44-175.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/build/android-profile/profile-2021-04-17-13-40-44-175.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabExperiment/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rFpEmomreN6HNsuYQeajPFsE76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DroidCafeOptions.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aac32ca-f12a-49e2-976d-124ec2cc3385" name="Default Changelist" comment="" />
+      <created>1618581582892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618581582892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="234" key="GridCell.Tab.0.bottom" timestamp="1618618276054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618618276054" />
+    <state width="1876" height="234" key="GridCell.Tab.0.center" timestamp="1618618276053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618618276053" />
+    <state width="1876" height="234" key="GridCell.Tab.0.left" timestamp="1618618276052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618618276052" />
+    <state width="1876" height="234" key="GridCell.Tab.0.right" timestamp="1618618276054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618618276054" />
+  </component>
+</project>
