@@ -5,10 +5,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.util.Log;
+import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
-    RecyclerView recyclerView;
+    private  RecyclerView recyclerView;
 
  String s1[],s2[];
  int images[]={R.drawable.c_plus_plus,R.drawable.c_sharp,R.drawable.java,
@@ -21,13 +23,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView ( R.layout.activity_main );
 
 
-        recyclerView=findViewById ( R.id.recyclerView );
+        this.recyclerView = findViewById(R.id.recyclerView);
 
         s1=getResources ().getStringArray ( R.array.programmiing_language );
         s2=getResources ().getStringArray ( R.array.description );
 
-        MyAdapter myAdapter = new MyAdapter (this,s1,s2,images);
-        recyclerView.setAdapter ( myAdapter );
-        recyclerView.setLayoutManager ( new LinearLayoutManager ( this ) );
-    }
+        MyAdapter myAdapter = new MyAdapter(this,s1,s2,images);
+        recyclerView.setLayoutManager(new LinearLayoutManager( this));
+        recyclerView.setAdapter(myAdapter);}
 }
