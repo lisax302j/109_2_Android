@@ -16,6 +16,7 @@
 
 package com.example.android.materialme;
 
+import android.app.Activity;
 import android.app.ActivityOptions;
 import android.content.Context;
 import android.content.Intent;
@@ -31,6 +32,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.bumptech.glide.load.resource.drawable.GlideDrawable;
+import com.bumptech.glide.request.target.Target;
 
 import java.util.ArrayList;
 
@@ -134,8 +137,8 @@ class SportsAdapter extends RecyclerView.Adapter<SportsAdapter.ViewHolder>  {
             mInfoText.setText(currentSport.getInfo());
 
             // Load the images into the ImageView using the Glide library.
-            Glide.with(mContext).load(
-                    currentSport.getImageResource()).into(mSportsImage);
+            final Target<GlideDrawable> into = Glide.with ( mContext ).load (
+                    currentSport.getImageResource ( ) ).into ( mSportsImage );
         }
 
         /**
@@ -154,9 +157,9 @@ class SportsAdapter extends RecyclerView.Adapter<SportsAdapter.ViewHolder>  {
 
 
 
-//            ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation (SportsAdapter.this,mSportsImage, getTransitionName("SportsImage") );
+            ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation ( (Activity) mContext,mSportsImage, "Transition");
 
-//            startActivity (detailIntent,options.toBundle());
+            mContext.startActivity (detailIntent,options.toBundle());
         }
 
 

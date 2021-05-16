@@ -29,7 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
-            android:transitionName="SportsImage"/>
+            android:transitionName="Transition"/>
 
         <TextView
             android:id="@+id/title"
@@ -43,7 +43,7 @@
 
         <TextView
             android:id="@+id/newsTitle"
-            style="@style/TextAppearance.AppCompat.Subhead"
+            android:style="@style/TextAppearance.AppCompat.Subhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/sportsImage"
@@ -53,7 +53,7 @@
 
         <TextView
             android:id="@+id/subTitle"
-            style="@style/TextAppearance.AppCompat.Subhead"
+            android:style="@style/TextAppearance.AppCompat.Subhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/newsTitle"

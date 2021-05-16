@@ -1,0 +1,42 @@
+HW10a
+106332013’Â?Šž
+Q1
+1. res>layout Ý’uProgressBar>android:max:100
+2. 
+@Override
+protected void onProgressUpdate (Integer...values){
+    super.onProgressUpdate (values);
+    int myValue1 =values[0];
+    int myValue2 =values[1];
+    if (!isProgressBar)
+        mProgressDialog.setProgress ( myValue1 );
+    else {
+        mProgressBar.setProgress ( myValue2 );
+        mProgressBar.setProgress ( myValue2+10 );
+    }
+}
+Q2.
+1.URL
+2.Integer
+3.Long
+Q3
+* Implement?publishProgress(). Call?onProgressUpdate().
+
+Question 1
+For a?ProgressBar:
+1. How do you determine the range of values that a?ProgressBar?can show?
+2. How do you change how much of the progress bar is filled in?
+Question 2
+If an?AsyncTask?is defined as follows:
+?private class DownloadFilesTask extends AsyncTask<URL, Integer, Long>
+
+1. What is the type of the value that is passed to?doInBackground()?in the AsyncTask?
+2. What is the type of the value that is passed to the callback that reports the progress of the task?
+3. What is the type of the value that is passed to the callback that is executed when the task completes?
+Question 3
+To report progress of the work executed by an?AsyncTask, what callback method do you?implement, and what method do you?call?in your?AsyncTask?subclass?
+* Implement?publishProgress(). Call?publishProgress().
+* Implement?publishProgress(). Call?onProgressUpdate().
+* Implement?onProgressUpdate(). Call?publishProgress().
+* Implement?onProgressUpdate(). Call?onProgressUpdate().
+

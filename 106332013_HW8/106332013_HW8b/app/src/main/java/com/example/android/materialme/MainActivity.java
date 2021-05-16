@@ -19,6 +19,7 @@ package com.example.android.materialme;
 import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
@@ -44,6 +45,12 @@ public class MainActivity extends AppCompatActivity {
 
         // Initialize the RecyclerView.
         mRecyclerView = findViewById(R.id.recyclerView);
+
+        //Set the Layout Manager
+        int gridColumnCount =
+                getResources().getInteger(R.integer.grid_column_count);
+        mRecyclerView.setLayoutManager(new
+                GridLayoutManager (this, gridColumnCount));
 
         // Set the Layout Manager.
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
