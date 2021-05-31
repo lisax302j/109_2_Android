@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Lisa\\Documents\\109_2_Android\\106332013_HW9\\106332013_HW9a\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w800dp-land-v13\\values-w800dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lisa\\Documents\\109_2_Android\\106332013_HW9\\106332013_HW9a\\app\\src\\main\\res\\values-w800dp-land\\integers.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "11",
+                        "startOffsets": "51",
+                        "endColumns": "56",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

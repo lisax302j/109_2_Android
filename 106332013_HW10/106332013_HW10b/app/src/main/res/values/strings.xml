@@ -4,4 +4,14 @@
     <string name="loading">strings</string>
     <string name="no_search_term">strings</string>
     <string name="no_network">strings</string>
+    <string name="name">Name</string>
+    <string name="get_page_source">GET PAGE SOURCE</string>
+    <string name="http">http://</string>
+    <string name="enter_url">Enter URL:</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="url_choice">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
 </resources>

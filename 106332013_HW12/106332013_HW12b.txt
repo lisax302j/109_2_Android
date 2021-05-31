@@ -1,0 +1,9 @@
+HW12b
+106332013 ’Â?Šž
+* 1. workManager
+Question 1
+What class do you use if you want features like the ones provided by?JobScheduler, but you want the features to work for devices running API level 20 and lower?
+* JobSchedulerCompat
+* workManager
+* AlarmManager
+

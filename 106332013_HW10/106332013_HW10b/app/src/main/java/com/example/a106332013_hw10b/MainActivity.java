@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity
         spnURL.setAdapter ( adapterURL );
 
         mBookInput = findViewById(R.id.bookInput);
-        mTitleText = findViewById(R.id.titleText);
-        mAuthorText = findViewById(R.id.authorText);
+//        mTitleText = findViewById(R.id.titleText);
+//        mAuthorText = findViewById(R.id.authorText);
 
         if (getSupportLoaderManager().getLoader(0) != null) {
             getSupportLoaderManager().initLoader(0, null, this);

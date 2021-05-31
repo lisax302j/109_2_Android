@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spnURL" type="id" />
+    <item name="searchButton" type="id" />
+    <item name="bookInput" type="id" />
+    <item name="instructions" type="id" />
+    <item name="scrollView2" type="id" />
+    <item name="pageSource" type="id" />
+</resources>
