@@ -1,0 +1,14 @@
+HW13a
+106332013’Â?Šž
+1. onPause()
+2. onCreate()
+3.An painting APP which always create a blank canvas when restart it but it storage the brushes user setted.
+
+
+Question 1
+In which lifecycle method do you save the app state to shared preferences?
+Question 2
+In which lifecycle method do you restore the app state?
+Question 3
+Can you think of a case where it makes sense to have both shared preferences and instance state?
+
