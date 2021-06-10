@@ -59,7 +59,12 @@ public class MainActivity extends AppCompatActivity {
 
 
     private NotificationManager mNotifyManager;
-    private final NotificationJobService mReceiver = new NotificationJobService();
+    private BroadcastReceiver mReceiver = new BroadcastReceiver ( ) {
+
+        @Override
+        public void onReceive(Context context , Intent intent) {
+           }
+    };
     private static final String ACTION_UPDATE_NOTIFICATION =
             "com.android.example.notifyme.ACTION_UPDATE_NOTIFICATION";
     // Notification channel ID.
@@ -76,8 +81,7 @@ public class MainActivity extends AppCompatActivity {
 
         createNotificationChannel();
 
-        registerReceiver(mReceiver, new IntentFilter(ACTION_UPDATE_NOTIFICATION));
-
+        registerReceiver ( mReceiver,new IntentFilter ( ACTION_UPDATE_NOTIFICATION ) );
         mDeviceIdleSwitch = findViewById(R.id.idleSwitch);
         mDeviceChargingSwitch = findViewById(R.id.chargingSwitch);
         mSeekBar = findViewById(R.id.seekBar);
